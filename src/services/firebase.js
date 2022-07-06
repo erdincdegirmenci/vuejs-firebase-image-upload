@@ -1,12 +1,13 @@
 import { initializeApp } from "firebase/app";
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyB3HbY_koHTu-ci6cYIEA4-87g56L4eJ9w",
-  authDomain: "xrt-image-uploader.firebaseapp.com",
-  projectId: "xrt-image-uploader",
-  storageBucket: "xrt-image-uploader.appspot.com",
-  messagingSenderId: "534355016535",
-  appId: "1:534355016535:web:fc005008c6b2ce28781c12"
+  // your config
+  apiKey: "AIzaSGB3HbY_koHTu-ci6cYIEA4-87g56L4eJ9w",
+  authDomain: "vuejs-image-upload.firebaseapp.com",
+  projectId: "vuejs-image-upload",
+  storageBucket: "vuejs-image-upload.appspot.com",
+  messagingSenderId: "532523016535",
+  appId: "1:534255033333:web:fc005008c6b2ce28781c12"
 };
 
 
