@@ -7,8 +7,6 @@
           color="blue-grey"
           dark
         >
-          Konuşmaaaaağ Yükleeee
-          <v-icon>mdi-hand-wave-outline</v-icon>
         </v-alert>
       <!-- <input type="file" @change="previewImage" accept="image/*" >       -->
         <v-file-input
